@@ -1,0 +1,14 @@
+.Grunch {
+    background-color:black;
+    color:white;
+}
+
+.Numpty {
+    background-color:yellow;
+}
+
+.Grunch,
+.Numpty {
+    font-size:28px;
+    font-family:'Helvetica', 'Times New Roman', 'sans-serif';
+}
